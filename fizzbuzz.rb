@@ -3,7 +3,7 @@
 def fizzbuzz(int)
   if int % 3 == 0
     return "Fizz"
-      fizz_3 = fizzbuzz
+      fizz_3 = "Fizz"
 end
 end
 
